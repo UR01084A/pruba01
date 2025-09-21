@@ -1,0 +1,17 @@
+[
+  {
+    "titulo": "Fundamentos de Programación",
+    "descripcion": "Aprende lo básico",
+    "archivo": "materiales/guia-programacion.pdf"
+  },
+  {
+    "titulo": "Arquitectura de Software",
+    "descripcion": "Diseño de sistemas",
+    "archivo": "materiales/arquitectura.pdf"
+  },
+  {
+    "titulo": "a",
+    "descripcion": "a",
+    "archivo": "materiales/guia-programacion.pdf"
+  }
+]
